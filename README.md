@@ -16,3 +16,16 @@ $ import cv2
 $ import numpy as np 
 $ import dlib 
 ```
+
+
+
+
+
+
+
+
+
+
+## License
+
+Distributed under the MIT license. See LICENSE for details.
